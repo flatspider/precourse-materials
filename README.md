@@ -71,6 +71,20 @@ This course will give you the best possible preparation for being successful at 
 *Why this sequence?*  
 Full Stack Open is the best online web development course we have found, and **Eloquent JS** is the best Javascript book.
 
+### Typescript
+
+tldr; learn [Typescript Basics] here.
+
+You might notice that none of this preparation is in typescript, and yet the course is completely in typescript.
+
+That's true.
+
+We care more about you understanding the fundamentals of programming the web than we care about any particular language, and javascript is (kind of) a simpler subset of typescript.
+
+THAT BEING SAID, Typescript is a better language (in our opinion), you should learn it (in our opinion), and we will require it in class from day one.
+
+Here is my favorite course on [Typescript Basics]. 
+
 ---
 
 [Full Stack Open Part 0b]: https://fullstackopen.com/en/part0/fundamentals_of_web_apps  
@@ -120,3 +134,5 @@ Full Stack Open is the best online web development course we have found, and **E
 [Eloquent JS]: https://eloquentjavascript.net/  
 [Pro Git Ch 1, 2, 6]: https://git-scm.com/book/en/v2  
 [Full Stack Open Parts 0b-3]: https://fullstackopen.com/en/#course-contents
+
+[Typescript Basics]: https://www.executeprogram.com/courses/typescript-basics
