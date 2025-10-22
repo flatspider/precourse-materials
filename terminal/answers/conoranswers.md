@@ -24,3 +24,15 @@ The top 20 commands for the mac Command Line Interface are:
     18. The command 'shortcuts' allows you to directly target and run a shortcut without the Apple App.
     19. For users with TimeMachine, run 'tmutil startbackup' to immediately create a back up.
     20. Force quit an app by running 'killall' appname.
+
+- What is a terminal? A CLI? Why are they synonymous?
+
+A terminal is based on the latin word "terminus" which means to end. We call it a terminal because it is the output end where the computer passes data to a human. It made more sense as a word when the computer was huge in its own building. The command line interface is where you can input lines of text (command lines) to run programs. This is the main function of a terminal.
+
+- What is the difference between bash and zsh?
+
+Both bash and zsh are ways of interacting with the shell of a computer kernel. Bash was created as an open source way to extending sh and reduce licensing clashes. Zsh was created as a further extension of the bash shell extension of sh (the orginal Bourne shell). Zsh has spell check, auto-completion, and much more comfort features.
+
+- What is the difference between Terminal, Console, Shell, and Command Line?
+
+The terminal/console is used to input command lines which are then interpreted by the shell program to be executed by the computer. All of these work together to allow for an entered "command line" to run programs on the computer. The console generally referred to the physical input device, but is now mostly synonymous with the terminal.
